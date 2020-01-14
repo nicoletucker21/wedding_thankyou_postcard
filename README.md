@@ -8,12 +8,14 @@ FILES REQUIRED FOR CODE TO RUN CORRECTLY:
 
 This file is a list of all the people who gave you a wedding gift, including their full name (couples or family names combined), the item gifted, the category of the gift, and the full mailing address of the gift giver.
 
-![people_gift template](https://github.com/nicoletucker21/wedding_thankyou_postcard/people_gift_template)
+![people_gift template](https://github.com/nicoletucker21/wedding_thankyou_postcard/people_gift_template.png)
 
 2. message.csv
 
 This file is a list of all the messages you want printed on your postcards, organized by gift category.
 The code is written so that gift data is inserted into the message, so feel free write a specific message for each cateogory and include the word GIFT where you want the gift data inserted!
+
+![message template](https://github.com/nicoletucker21/wedding_thankyou_postcard/message_template.png)
 
 3. font.png (or .jpg)
 
