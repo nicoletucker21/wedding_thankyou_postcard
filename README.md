@@ -8,6 +8,8 @@ FILES REQUIRED FOR CODE TO RUN CORRECTLY:
 
 This file is a list of all the people who gave you a wedding gift, including their full name (couples or family names combined), the item gifted, the category of the gift, and the full mailing address of the gift giver.
 
+![people_gift template](https://github.com/nicoletucker21/wedding_thankyou_postcard/people_gift_template)
+
 2. message.csv
 
 This file is a list of all the messages you want printed on your postcards, organized by gift category.
@@ -25,6 +27,6 @@ This file is the photo or design for the back of your postcard. Make sure it is 
 You can use as many fonts as you want. You will be able to import them, determine the size, alignment, and color of each font.
 
 
-At the Top 
+At the Top of the function, there are constants that can be updated. The trickiest part of the code is getting the correct placement for the text you want written. The X and Y placement is determined by number of pixels, it will take some trial and error to get the text just where you want it depending on your back.png design.
 
 
