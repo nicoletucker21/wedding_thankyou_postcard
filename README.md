@@ -6,7 +6,7 @@ Use this python script to automate it, and even customize each card by category 
 
 1. people_gifts.csv
 
-This file is a list of all the people who gave you a wedding gift, including their full name (couples or family names combined), the item gifted, the category of the gift, and the full mailing address of the gift giver.
+This file is a list of all the people who gave you a wedding gift, including their full name (couples or family names combined), the item gifted, the category of the gift, and the full mailing address of the gift giver. I recommend using this template from the beginning and keeping track of gifts as you receive them to save time later!
 
 ![people_gift template](https://github.com/nicoletucker21/wedding_thankyou_postcard/blob/master/people_gift_template.png)
 
