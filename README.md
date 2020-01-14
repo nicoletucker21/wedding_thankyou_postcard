@@ -8,10 +8,10 @@ FILES REQUIRED FOR CODE TO RUN CORRECTLY:
 
 This file is a list of all the people who gave you a wedding gift, including their full name (couples or family names combined), the item gifted, the category of the gift, and the full mailing address of the gift giver.
 
-![people_gift template](https://github.com/nicoletucker21/wedding_thankyou_postcard/people_gift_template.png)
+![people_gift template](https://github.com/nicoletucker21/wedding_thankyou_postcard/blob/master/people_gift_template.png)
 
 <img
-src="https://github.com/nicoletucker21/wedding_thankyou_postcard/people_gift_template.png"
+src="https://github.com/nicoletucker21/wedding_thankyou_postcard/blob/master/people_gift_template.png"
 raw=true
 alt="people_gift template"
 style="margin-right: 10px;"
