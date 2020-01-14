@@ -10,19 +10,12 @@ This file is a list of all the people who gave you a wedding gift, including the
 
 ![people_gift template](https://github.com/nicoletucker21/wedding_thankyou_postcard/blob/master/people_gift_template.png)
 
-<img
-src="https://github.com/nicoletucker21/wedding_thankyou_postcard/blob/master/people_gift_template.png"
-raw=true
-alt="people_gift template"
-style="margin-right: 10px;"
-/>
-
 2. message.csv
 
 This file is a list of all the messages you want printed on your postcards, organized by gift category.
 The code is written so that gift data is inserted into the message, so feel free write a specific message for each cateogory and include the word GIFT where you want the gift data inserted!
 
-![message template](https://github.com/nicoletucker21/wedding_thankyou_postcard/message_template.png)
+![message template](https://github.com/nicoletucker21/wedding_thankyou_postcard/blob/master/message_template.png)
 
 3. font.png (or .jpg)
 
