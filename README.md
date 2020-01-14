@@ -3,7 +3,6 @@ Don't want to write and address all of your wedding gift thank you cards by hand
 Use this python script to automate it, and even customize each card by category and gift!
 
 FILES REQUIRED FOR CODE TO RUN CORRECTLY:
-Make sure all of these files are in the same directory folder as your script file
 
 1. people_gifts.csv
 
@@ -29,6 +28,7 @@ This file is the photo or design for the back of your postcard. Make sure it is 
 5. font files (.otf or .ttf)
 You can use as many fonts as you want. You will be able to import them, determine the size, alignment, and color of each font. Since you are creating a custom postcard, get creative. Google sites that have many beautiful and free fonts you can download!
 
+Make sure all of these files are in the same directory folder as your script file!
 
 At the top of the function, there are constants that can be updated. The trickiest part of the code is getting the correct placement on back.png for the text you want written. The X and Y placement is determined by number of pixels, it will take some trial and error to get the text just where you want it depending on your back.png design.
 
