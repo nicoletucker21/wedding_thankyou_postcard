@@ -17,7 +17,7 @@ The code is written so that gift data is inserted into the message, so feel free
 
 ![message template](https://github.com/nicoletucker21/wedding_thankyou_postcard/blob/master/messages_template.png)
 
-3. font.png (or .jpg)
+3. front.png (or .jpg)
 
 This file is a photo or design for the front of your postcard. Make sure it is 300 DPI (best resolution for printing). That is 300 pixels per inch if you are designing/exporting the file/photo yourself. The files in my repository are 1275 × 1875 pixels, 4 x 6 inches with a 1/8 inch bleed on each side.
 
